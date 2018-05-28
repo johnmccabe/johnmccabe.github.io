@@ -1,0 +1,10 @@
+# Authors
+
+John McCabe:
+  name: John McCabe
+  picture: assets/avatar.jpg
+  twitter: "@mccabejohn"
+  links:
+    - title: Twitter
+      url: https://twitter.com/mccabejohn
+      icon: fab fa-twitter-square

@@ -16,13 +16,14 @@
 
 remote_theme: mmistakes/so-simple-theme
 
+locale: en-GB
 title: johnmccabe.net
-email: ""
+# email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Belfast based geek. Apion, Aepona, Intel, Cloudsoft, Puppet, OpenFaaS contributer.
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: https://johnmccabe.github.io # the base hostname & protocol for your site, e.g. http://example.com
-logo: ""
+# logo: "assets/site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: # 200
@@ -32,12 +33,12 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: ""
-disqus:
-  shortname: ""
+# google_analytics: ""
+# disqus:
+#   shortname: ""
 twitter:
   username: "mccabejohn"
-google_site_verification: ""
+# google_site_verification: ""
 
 
 # Liquid
@@ -49,6 +50,9 @@ permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
+
+kramdown:
+  input: GFM
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
@@ -81,10 +85,10 @@ plugins:
   - jekyll-redirect-from
 
 # Collections
-# collections:
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -108,8 +112,8 @@ defaults:
 # Site Author
 author:
   name: John McCabe
-  picture: ""
-  email:
+  picture: "assets/avatar.jpg"
+  # email:
   twitter: mccabejohn
   links:
     - title: Twitter
