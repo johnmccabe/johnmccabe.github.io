@@ -24,7 +24,8 @@ github_username:  johnmccabe
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: mmistakes/so-simple-theme
 plugins:
   - jekyll-feed
   - jekyll-gist
