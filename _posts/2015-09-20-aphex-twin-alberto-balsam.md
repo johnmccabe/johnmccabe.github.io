@@ -10,4 +10,4 @@ categories:
 tags: []
 author: John McCabe
 ---
-{% youtube ihyQf8mww3o %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/ihyQf8mww3o"></iframe>

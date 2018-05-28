@@ -14,6 +14,6 @@ meta:
   _edit_last: '1'
 author: John McCabe
 ---
-{% youtube 8pbdLqTh_x4 %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/8pbdLqTh_x4"></iframe>
 
 <p>This is the best track from one of my favourite albums, 2010s eponymous <a href="http://en.wikipedia.org/wiki/Darwin_Deez_(album)">Darwin Deez</a>, and always reminds me of transferring between terminals in Heathrow. #loveit</p>

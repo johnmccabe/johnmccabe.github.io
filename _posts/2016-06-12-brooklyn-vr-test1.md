@@ -10,8 +10,8 @@ categories:
 tags: []
 author: John McCabe
 ---
-{% youtube mRjt53jyfNM %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/mRjt53jyfNM"></iframe>
 
-<p>Simple static scene testing instantiation of rigid body objects representing applications at runtime from the Brooklyn REST API along with labels and material based on application state (ON_FIRE is on fire..).</p>
+Simple static scene testing instantiation of rigid body objects representing applications at runtime from the Brooklyn REST API along with labels and material based on application state (ON_FIRE is on fire..).
 
-<p>Did you like this article? Share it with your friends!</p>
+Did you like this article? Share it with your friends!

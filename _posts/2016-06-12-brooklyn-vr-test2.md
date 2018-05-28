@@ -10,6 +10,6 @@ categories:
 tags: []
 author: John McCabe
 ---
-{% youtube y0d1ZMjEDzM %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/y0d1ZMjEDzM"></iframe>
 
-<p>Now with added thumbs up and throwing stuff about.</p>
+Now with added thumbs up and throwing stuff about.

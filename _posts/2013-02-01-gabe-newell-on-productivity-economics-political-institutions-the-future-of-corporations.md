@@ -19,4 +19,4 @@ author: John McCabe
 ---
 Fascinating perspectives on running a successful software company which transcend the gaming sector.
 
-{% youtube t8QEOBgLBQU %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/t8QEOBgLBQU"></iframe>

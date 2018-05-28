@@ -11,5 +11,6 @@ tags: []
 meta:
 author: John McCabe
 ---
-<p>Can't get this out of my head, and I have an urge to buy a fixie.. am I turning into a Hipster!</p>
-{% youtube t3qYfe7Nsdc %}
+Can't get this out of my head, and I have an urge to buy a fixie.. am I turning into a Hipster!
+
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/t3qYfe7Nsdc"></iframe>

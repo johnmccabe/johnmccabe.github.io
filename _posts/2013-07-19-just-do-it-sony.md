@@ -13,6 +13,6 @@ meta:
   _edit_last: '3'
 author: John McCabe
 ---
-{% youtube Up8M1XKohmQ %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/Up8M1XKohmQ"></iframe>
 
 <p>Quite a bit of buzz about a Sony/Oculus joint project after E3, personally I think it would be an awesome move for Sony. Here's hoping it happens.</p>

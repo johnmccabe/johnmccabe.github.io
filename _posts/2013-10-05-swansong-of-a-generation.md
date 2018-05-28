@@ -13,6 +13,6 @@ meta:
   _edit_last: '3'
 author: John McCabe
 ---
-<p>Talk about going out with a bang.. the PS4/XboxOne have a lot to live up to.. beautiful!</p>
+Talk about going out with a bang.. the PS4/XboxOne have a lot to live up to.. beautiful!
 
-{% youtube imIkmHCo8Lw %}
+<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/imIkmHCo8Lw"></iframe>
