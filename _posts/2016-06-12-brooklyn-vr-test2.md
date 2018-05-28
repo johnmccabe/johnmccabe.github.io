@@ -1,15 +1,15 @@
 ---
-layout: post
-title: Apache Brooklyn VR – Test 2 Manual Interactions
-date: 2016-06-12 21:00:12.000000000 +00:00
-type: post
-published: true
-status: publish
+title: Apache Brooklyn VR – Manual Interactions
 categories:
-- Technology
-tags: []
-author: John McCabe
+  - Technology
+  - Projects
+tags:
+  - vr
+  - project
+  - oss
+last_modified_at: 2016-06-12T18:11:40+00:00
 ---
-<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/y0d1ZMjEDzM"></iframe>
+
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/y0d1ZMjEDzM?controls=0&amp;" %}
 
 Now with added thumbs up and throwing stuff about.

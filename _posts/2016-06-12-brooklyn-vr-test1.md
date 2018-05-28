@@ -1,16 +1,16 @@
 ---
-layout: post
-title: Apache Brooklyn VR – Test 1 REST API Instantiation
-date: 2016-06-12 13:41:42.000000000 +00:00
-type: post
-published: true
-status: publish
+title: Apache Brooklyn VR – REST API Test
 categories:
-- Technology
-tags: []
-author: John McCabe
+  - Technology
+  - Projects
+tags:
+  - vr
+  - project
+  - oss
+last_modified_at: 2016-06-12T12:11:40+00:00
 ---
-<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/mRjt53jyfNM"></iframe>
+
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/mRjt53jyfNM?controls=0&amp;" %}
 
 Simple static scene testing instantiation of rigid body objects representing applications at runtime from the Brooklyn REST API along with labels and material based on application state (ON_FIRE is on fire..).
 

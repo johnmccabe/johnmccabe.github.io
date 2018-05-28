@@ -1,18 +1,11 @@
 ---
-layout: post
-title: Swansong of a generation
-date: 2013-10-05 22:04:53.000000000 +01:00
-type: post
-published: true
-status: publish
+title: GTA5 the swansong of a generation
 categories:
-- Gaming
-- Video
-tags: []
-meta:
-  _edit_last: '3'
-author: John McCabe
+  - Gaming
+tags:
+  - gaming
+  - gta5
 ---
-Talk about going out with a bang.. the PS4/XboxOne have a lot to live up to.. beautiful!
+Talk about going out with a bang.. the PS4/XboxOne have a lot to live up to. This timelapse video taking in-game is just stunningly beautiful.
 
-<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/imIkmHCo8Lw"></iframe>
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/imIkmHCo8Lw?controls=0&amp;" %}

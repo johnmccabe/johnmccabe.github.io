@@ -1,11 +1,17 @@
 ---
-layout: post
-title:  "Apache Brooklyn Commit History Visualisation"
-date:   2016-01-23 23:11:00 +0000
-categories: open-source
-author: John McCabe
+title: Apache Brooklyn Commit History Visualisation
+categories:
+  - Technology
+  - Projects
+tags:
+  - visualisation
+  - project
+  - oss
+  - apache brooklyn
+  - git
 ---
-<iframe width="560" height="315" frameborder="0" allowfullscreen src="http://www.youtube.com/embed/WPsu4OH9hsk"></iframe>
+
+{% include responsive-embed url="https://www.youtube-nocookie.com/embed/WPsu4OH9hsk?controls=0&amp;" %}
 
 Visualisation of the Apache Brooklyn commit history - 10 Jun 2011 - 23 Jan 2016 ([master](https://github.com/apache/incubator-brooklyn/tree/master)) - (1080p 60fps)
 

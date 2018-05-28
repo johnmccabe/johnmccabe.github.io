@@ -1,13 +1,18 @@
 ---
-layout: post
-title:  "Youtube Downloads with Docker and Bash"
-date:   2016-01-24 21:29:00 +0000
-categories: open-source
-author: John McCabe
+title: Download Youtube Videos with Docker
+categories:
+  - Technology
+  - Projects
+tags:
+  - youtube
+  - project
+  - oss
+  - docker
+  - bash
 ---
 I finally took some time recently to cobble together a set of bash scripts to allow me to download local copies of videos from youtube, heavily piggy backing off the [jbergknoff/youtube-dl](https://hub.docker.com/r/jbergknoff/youtube-dl/) Docker image and the associated [youtube-dl](https://github.com/rg3/youtube-dl) project.
 
-<script type="text/javascript" src="https://asciinema.org/a/e0y1g6y8xvmj9u93zwrldkqnb.js" id="asciicast-e0y1g6y8xvmj9u93zwrldkqnb" async></script>"
+<script type="text/javascript" src="https://asciinema.org/a/e0y1g6y8xvmj9u93zwrldkqnb.js" id="asciicast-e0y1g6y8xvmj9u93zwrldkqnb" async></script>
 
 You can add the following bash functions to your own env files (I've a post on my own setup in the works).
 
