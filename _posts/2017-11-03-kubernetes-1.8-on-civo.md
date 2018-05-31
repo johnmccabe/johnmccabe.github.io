@@ -188,7 +188,6 @@ You can now connect to the Dashboard via the following proxy address.
 
 Once you've populated your Kubernetes instance with some containers, you'll see that graphs are fully enabled.
 
-
 ![center-aligned-image](/assets/kubernetes-1.8-civo/dashboard.png){: .align-center}
 
 ## Next Steps
