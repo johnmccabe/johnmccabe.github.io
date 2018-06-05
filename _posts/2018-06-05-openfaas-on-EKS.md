@@ -33,4 +33,4 @@ Now this initial run through was very brief, so I've not bothered setting up the
 
 Very impressed so far that it **just worked**.
 
-Looking forward to seeing the tools that appear around this, fellow [OpenFaaS](https://www.openfaas.com/) contributor [@stefanprodan](https://twitter.com/stefanprodan) let us know about the [WeaveWorks](https://twitter.com/weaveworks) `eksctl` tool thats out already, will have to give that a crack as well, should drastically simplify the process.
+Looking forward to seeing the tools that appear around this, fellow [OpenFaaS](https://www.openfaas.com/) contributor [@stefanprodan](https://twitter.com/stefanprodan) let us know about the [WeaveWorks](https://twitter.com/weaveworks) [`eksctl`](https://eksctl.io/) tool thats out already, will have to give that a crack as well, should drastically simplify the process.
