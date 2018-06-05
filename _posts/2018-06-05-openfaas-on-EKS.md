@@ -6,6 +6,7 @@ categories:
 tags:
   - cncf
   - openfaas
+  - kubernetes
   - project
   - aws
   - eks
