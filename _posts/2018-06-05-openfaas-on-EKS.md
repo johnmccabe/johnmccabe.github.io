@@ -18,6 +18,11 @@ Turned out to be extremely straight forward by following both the [EKS Getting S
 
 - Follow the [EKS Getting Started guide](https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html) steps 1, 2 and 3.
 - Follow the [OpenFaaS Kubernetes Guide](https://docs.openfaas.com/deployment/kubernetes/), remembering to `kubectl apply` the `cloud/lb.yaml` config to make the cluster public
+- Get the gateways public address with:
+    ```
+    kubectl get svc -o wide -n openfaas gateway
+    ```
+  You can then connect to the gateway at that address on port `8080` via the UI or CLI.
 
 And thats it, you have a running OpenFaaS cluster.
 
