@@ -11,7 +11,7 @@ tags:
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/5UThZC_qA4w?controls=0&amp;" %}
 
-I've long wanted to have my own [Game Frame](https://ledseq.com/) after seeing it [unveiled on Tested](https://www.youtube.com/watch?v=lN4X4grFZa0) by its creator [Jeremy Williams](https://twitter.com/jerware), but had never gotten round to picking one up. It was however the first thing that jumped into my mind when I saw the unveil of the [Pimoroni Ubercorn](https://shop.pimoroni.com/products/ubercorn) - a lovely APA102-based LED matrix that you just need to plug a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) into.
+I've long wanted to have my own [Game Frame](https://ledseq.com/) after seeing it [unveiled on Tested](https://www.youtube.com/watch?v=lN4X4grFZa0) by its creator [Jeremy Williams](https://twitter.com/jerware), but had never gotten round to picking one up. It was however the first thing that jumped into my mind when I saw the unveil of the [Pimoroni Ubercorn](https://shop.pimoroni.com/products/ubercorn) - a lovely RGB LED matrix that you just need to plug a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) into.
 
 I began by recreating a Game Frame-like mesh in Fusion 360 which prevents light from each LED bleeding when illuminated through a diffuser. _I'll update this post with links to the object files soon_.
 
