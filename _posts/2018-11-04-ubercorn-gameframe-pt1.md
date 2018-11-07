@@ -11,6 +11,8 @@ tags:
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/5UThZC_qA4w?controls=0&amp;" %}
 
+* Update - I've added a link at the end of the post to the STL files if you want to print your own*
+
 I've long wanted to have my own [Game Frame](https://ledseq.com/) after seeing it [unveiled on Tested](https://www.youtube.com/watch?v=lN4X4grFZa0) by its creator [Jeremy Williams](https://twitter.com/jerware), but had never gotten round to picking one up. It was however the first thing that jumped into my mind when I saw the unveil of the [Pimoroni Ubercorn](https://shop.pimoroni.com/products/ubercorn) - a lovely RGB LED matrix that you just need to plug a [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) into.
 
 I began by recreating a Game Frame-like mesh in Fusion 360 which prevents light from each LED bleeding when illuminated through a diffuser. _I'll update this post with links to the object files soon_.
@@ -42,3 +44,7 @@ I'll be picking up the [official Game Frame images](https://ledseq.com/product/g
 
 
 ![center-aligned-image](/assets/ubercorn-gameframe-pt1/front.jpg){: .align-center}
+
+I've shared my STL files on [Pinshape](https://pinshape.com/items/48046-3d-printed-pimoroni-ubercorn-game-frame) and I'd love to see how you get on printing your own, or if you create any cool modifications to the design - tweet your pics to me [@mccabejohn](https://twitter.com/mccabejohn).
+
+- https://pinshape.com/items/48046-3d-printed-pimoroni-ubercorn-game-frame
