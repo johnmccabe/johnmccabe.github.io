@@ -33,7 +33,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-# google_analytics: ""
+google_analytics: "UA-38153121-2"
 # disqus:
 #   shortname: ""
 twitter:
