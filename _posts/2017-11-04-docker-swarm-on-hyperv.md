@@ -12,7 +12,6 @@ tags:
 image:
   path: /assets/docker-swarm-hyperv/hero.jpg
   thumbnail: /assets/docker-swarm-hyperv/thumbnail.jpg
-last_modified_at: 2016-06-12T18:11:40+00:00
 ---
 
 This guide describes how to run a Docker Swarm cluster with local registry on Windows 10 using Hyper-V. It fleshes out an extremely cut down set of instructions I'd previously posted in [this gist](https://gist.github.com/johnmccabe/55baab605c0fb82df9c1cbf8c3dde407).
