@@ -10,7 +10,6 @@ tags:
 image:
   path: /assets/kubernetes-1.8-civo/hero.jpg
   thumbnail: /assets/kubernetes-1.8-civo/thumbnail.jpg
-last_modified_at: 2016-06-12T18:11:40+00:00
 ---
 
 This guide captures the steps involved in deploying Kubernetes on a single-host running on the [Civo](https://www.civo.com/) cloud. It borrows heavily from [@alexellis](https://twitter.com/alexellisuk)' [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/) blog post, extending it slightly with the following:
