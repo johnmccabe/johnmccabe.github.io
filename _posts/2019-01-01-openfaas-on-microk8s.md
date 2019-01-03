@@ -280,7 +280,7 @@ We can now install OpenFaaS using `kubectl` as described on the [docs site](http
     queue-worker   1/1     1            1           40s
     ```
 
-5. The UI will now be accessible on port `31112`, as I'm connecting remotely I access this via http://nuc:31112/ui/, you may want to connect to http://nuc:31112/ui/ if you've deployed this locally.
+5. The UI will now be accessible on port `31112`, as I'm connecting remotely I access this via http://nuc:31112/ui/ (you may want to connect to http://localhost:31112/ui/ if you've deployed this locally).
 
 ## Creating a Function
 
