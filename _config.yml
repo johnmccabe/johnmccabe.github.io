@@ -128,6 +128,9 @@ footer_links:
   - title: Twitter
     url: https://twitter.com/mccabejohn
     icon: fab fa-twitter-square
+  - title: Mastodon
+    url: https://mastodon.social/@mccabe
+    icon: fas fa-comment
   - title: GitHub
     url: https://github.com/johnmccabe
     icon: fab fa-github-square
